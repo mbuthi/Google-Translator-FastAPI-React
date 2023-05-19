@@ -1,0 +1,21 @@
+.translatedText {
+    width: 60%;
+    height: auto;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0, .3);
+    margin: 0 auto;
+    margin-top: 30px;
+    flex-direction: column;
+}
+
+.text{
+    align-self: center;
+    margin: 10px 0;
+}
+.destLang {
+    align-self: flex-end;
+    background-color: var(--green);
+    padding: 5px 10px;
+    color: var(--white);
+    border-radius: 5px;
+}
