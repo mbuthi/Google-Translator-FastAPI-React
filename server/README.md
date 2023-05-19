@@ -25,5 +25,5 @@ This install's the project dependencies
 ### `uvicorn main:app --reload`
 
 Run the app in development mode\
-Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
+Open [http://localhost:8000](http://localhost:8000) to view it in your browser.\
 Open [http://localhost:3=8000/docs](http://localhost:8000/docs) to view the routes documentation in your browser.
